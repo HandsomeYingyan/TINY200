@@ -1,0 +1,119 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+S2         MINIBUTTON          550.23mil     150.08mil        550mil        150mil     465.58mil     150.08mil  T        360.00 SW-BUTTON      
+S1         MINIBUTTON          550.23mil     750.08mil        550mil        750mil     465.58mil     750.08mil  T        360.00 SW-BUTTON      
+R27        R0402                 1360mil        134mil       1360mil        134mil   1343.268mil        134mil  B        360.00 1K             
+M1         MIC               1622.907mil        271mil   1622.907mil        252mil   1653.907mil        271mil  T        360.00 MIC            
+C48        C0402                 1414mil        148mil       1414mil        148mil       1414mil    131.268mil  T         90.00 10uF           
+C47        C0402                 1380mil        148mil       1380mil        148mil       1380mil    131.268mil  T         90.00 10uF           
+C46        C0402                 1360mil        168mil       1360mil        168mil   1376.732mil        168mil  B        180.00 1uF            
+C45        C0402                 1346mil        148mil       1346mil        148mil       1346mil    131.268mil  T         90.00 1uF            
+C44        C0402                 1312mil        148mil       1312mil        148mil       1312mil    131.268mil  T         90.00 1uF            
+J3         MICROUSB            173.47mil     669.99mil        160mil        670mil     230.09mil     721.17mil  T        270.00 MICRO_USB      
+J2         MICROUSB            173.47mil     229.99mil        160mil        230mil     230.09mil     281.17mil  T        270.00 MICRO_USB      
+D3         0402TVS                172mil        271mil        172mil        271mil    155.268mil        271mil  B        360.00 Diode_tvs      
+D2         0402TVS                172mil        230mil        172mil        230mil    188.732mil        230mil  B        180.00 Diode_tvs      
+J1         TFCARD473092651    577.715mil     455.91mil        560mil        450mil     499.96mil      593.7mil  T        270.00 TF             
+C41        C0402               499.96mil     420.48mil     499.96mil     420.48mil    483.228mil     420.48mil  B        360.00 104            
+R32        R0402                 1917mil        859mil       1917mil        859mil   1933.732mil        859mil  B        180.00 10K            
+R31        R0402                 1917mil        824mil       1917mil        824mil   1933.732mil        824mil  B        180.00 10K            
+R4         R0402                 1768mil        108mil       1768mil        108mil   1751.268mil        108mil  T          0.00 4R3            
+C51        C0402                 1683mil        590mil       1683mil        590mil   1699.732mil        590mil  B        180.00 104            
+C40        C0402                 1245mil        438mil       1245mil        438mil   1228.268mil        438mil  B        360.00 0.1uF          
+P4         FPC6                  1860mil        600mil       1860mil        600mil   1805.202mil    550.787mil  B         90.00 FPC6           
+P3         HDR1X18-M2             910mil        850mil         60mil        850mil         60mil        850mil  T        360.00 Header 18      
+P2         HDR1X18-M2             910mil         50mil         60mil         50mil         60mil         50mil  T        360.00 Header 18      
+P1         FFC/SM0.5-1H40        1890mil        450mil       1890mil        450mil   1834.681mil     66.142mil  T         90.00 FFC40-RGBLCD   
+C55        C0402                 1719mil        232mil       1719mil        232mil       1719mil    215.268mil  B         90.00 10uF           
+C56        C0603                 1931mil        249mil       1931mil        249mil       1931mil    218.685mil  B         90.00 10uF/25V       
+D1         SOD523                1912mil        346mil       1912mil        346mil   1882.473mil        346mil  B        360.00 B5819WT        
+L4         VLS3012E              1837mil        249mil       1837mil      248.5mil    1791.72mil        249mil  B        180.00 2.2uH          
+U5         SOT23-6               1911mil         98mil       1911mil         98mil   1873.598mil     137.37mil  B        270.00 SY7201         
+C59        C0402             1785.268mil        161mil   1785.268mil        161mil   1785.268mil    144.268mil  T         90.00 104            
+C60        C0402                 1752mil        161mil       1752mil        161mil       1752mil    177.732mil  T        270.00 10uF           
+C23        C0402                 1754mil        232mil       1754mil        232mil       1754mil    248.732mil  B        270.00 10uF           
+R20        R0402               499.96mil      593.7mil     499.96mil      593.7mil    483.228mil      593.7mil  B        360.00 10K            
+R19        R0402               499.96mil      550.4mil     499.96mil      550.4mil    483.228mil      550.4mil  B        360.00 10K            
+R18        R0402               499.96mil     507.09mil     499.96mil     507.09mil    483.228mil     507.09mil  B        360.00 10K            
+R17        R0402               499.96mil     333.86mil     499.96mil     333.86mil    483.228mil     333.86mil  B        360.00 10K            
+R16        R0402               499.96mil     290.56mil     499.96mil     290.56mil    483.228mil     290.56mil  B          0.00 10K            
+R14        R0402                 1195mil        587mil       1195mil        587mil   1178.268mil        587mil  B        360.00 2K/1%          
+R7         R0402               499.96mil        643mil     499.96mil        643mil    516.692mil        643mil  B        180.00 10K            
+R5         R0402                 1259mil        587mil       1259mil        587mil   1242.268mil        587mil  B        360.00 2K/1%          
+R3         R0402                 1019mil        168mil       1019mil        168mil   1035.732mil        168mil  B        180.00 10K            
+C39        C0402                 1019mil        202mil       1019mil        202mil   1035.732mil        202mil  B        180.00 0.1uF          
+C38        C0402                  937mil        537mil        937mil        537mil    920.268mil        537mil  B        360.00 0.1uF          
+C37        C0402                 1450mil        601mil       1450mil        601mil       1450mil    617.732mil  B        270.00 0.1uF          
+C36        C0402                 1485mil        601mil       1485mil        601mil       1485mil    617.732mil  B        270.00 10uF           
+C35        C0402                 1198mil        270mil       1198mil        270mil       1198mil    253.268mil  B         90.00 0.1uF          
+C34        C0402                 1164mil        270mil       1164mil        270mil       1164mil    253.268mil  B         90.00 10uF           
+C24        C0402                 1259mil        554mil       1259mil        554mil   1242.268mil        554mil  B        360.00 0.1uF          
+C9         C0402                 1089mil        617mil       1089mil        617mil   1105.732mil        617mil  B        180.00 10pF           
+C8         C0402                 1027mil        542mil       1027mil        542mil       1027mil    558.732mil  B        270.00 10pF           
+X1         XTAL2520           1089.11mil    539.701mil    1089.11mil    539.701mil    1067.11mil    505.701mil  B        270.00 XTAL2520-24M   
+C21        C0402                 1309mil        571mil       1309mil        571mil       1309mil    554.268mil  B         90.00 0.1uF          
+L1         VLS2016                328mil        315mil        328mil        315mil        328mil    341.575mil  T         90.00 2.2uH          
+DS1        LED0402                110mil        450mil        110mil        450mil        110mil        430mil  T         90.00 GREEN          
+R6         R0402                   98mil        516mil         98mil        516mil     81.268mil        516mil  B        360.00 5.1K           
+U2         SOT23              1299.11mil    362.701mil    1299.11mil    362.701mil   1336.512mil    316.441mil  B        180.00 XC6206-3.0     
+U1         QFN40P1000X1000X85_HS-89N       1210mil        450mil       1210mil        450mil   1401.929mil    284.646mil  T        180.00 F1C200s        
+U3         WSON-SPIFLASH          710mil        450mil        710mil        450mil        635mil    598.189mil  B        270.00 SPIFLASH_SOP8W 
+C1         C0402                 1144mil        653mil       1144mil        653mil       1144mil    669.732mil  B        270.00 10uF           
+C2         C0402                 1467mil        651mil       1467mil        651mil   1483.732mil        651mil  B        180.00 0.1uF          
+C3         C0402                 1144mil        571mil       1144mil        571mil       1144mil    554.268mil  B         90.00 0.1uF          
+C4         C0402                 1282mil        185mil       1282mil        185mil   1265.268mil        185mil  B        360.00 1uF            
+C20        C0402                 1019mil        133mil       1019mil        133mil   1035.732mil        133mil  B        180.00 1uF            
+C22        C0402                 1245mil        407mil       1245mil        407mil   1228.268mil        407mil  B        360.00 4.7uF          
+U4         QFN40P300X300X80_HS-21N        360mil        450mil        360mil        450mil    391.496mil    510.039mil  T        270.00 EA3036         
+C18        C0402                  500mil        246mil        500mil        246mil    483.268mil        246mil  B        360.00 0.1uF          
+C19        C0402              1249.11mil    705.701mil    1249.11mil    705.701mil    1249.11mil    722.433mil  B        270.00 10uF           
+C6         C0402                 1404mil        246mil       1404mil        246mil       1404mil    262.732mil  B        270.00 1uF            
+C7         C0402                 1338mil        246mil       1338mil        246mil       1338mil    229.268mil  B         90.00 0.1uF          
+C10        C0402                 1077mil        320mil       1077mil        320mil   1060.268mil        320mil  B        360.00 0.1uF          
+C14        C0402                 1471mil        305mil       1471mil        305mil   1487.732mil        305mil  B        180.00 10uF           
+C5         C0402              1304.11mil        246mil    1304.11mil        246mil    1304.11mil    229.268mil  B         90.00 4.7uF          
+C12        C0402                 1198mil        150mil       1198mil        150mil       1198mil    133.268mil  B         90.00 4.7uF          
+C13        C0402                 1164mil        150mil       1164mil        150mil       1164mil    133.268mil  B         90.00 4.7uF          
+C15        C0402              1218.11mil    705.701mil    1218.11mil    705.701mil    1218.11mil    722.433mil  B        270.00 1uF            
+C16        C0402                 1471mil        339mil       1471mil        339mil   1487.732mil        339mil  B        180.00 0.1uF          
+C17        C0402                 1195mil        554mil       1195mil        554mil   1178.268mil        554mil  B        360.00 0.1uF          
+R1         R0402                 1371mil        246mil       1371mil        246mil       1371mil    229.268mil  B         90.00 200K           
+R2         R0402                 1180mil        407mil       1180mil        407mil   1163.268mil        407mil  B        360.00 0R             
+C11        C0402              1181.11mil    197.701mil    1181.11mil    197.701mil   1164.378mil    197.701mil  B        360.00 10uF           
+U6         TSSOP10               1660mil        730mil       1660mil        730mil   1740.709mil     690.63mil  T        180.00 NS2009         
+R21        R0402                 1670mil        651mil       1670mil        651mil   1686.732mil        651mil  B        180.00 10K            
+R22        R0402             1757.441mil    748.441mil   1757.441mil    748.441mil   1774.173mil    748.441mil  B        180.00 10K            
+R23        R0402                 1637mil        749mil       1637mil        749mil   1653.732mil        749mil  B        180.00 NC             
+R24        R0402                  303mil        188mil        303mil        188mil        303mil    204.732mil  B        270.00 10K            
+D4         0402TVS                172mil        189mil        172mil        189mil    155.268mil        189mil  B        360.00 Diode_tvs      
+C42        C0402                  165mil        734mil        165mil        734mil        165mil    750.732mil  B        270.00 10uF           
+C43        C0402                  315mil        734mil        315mil        734mil    331.732mil        734mil  T        180.00 10uF           
+R25        R0402                  214mil        783mil        214mil        783mil    197.268mil        783mil  B        360.00 5.1K           
+U7         QFN24                  315mil        670mil        315mil        670mil     236.26mil     620.79mil  B        360.00 CP2104         
+R26        R0402                 1449mil        148mil       1449mil        148mil       1449mil    131.268mil  T         90.00 22R            
+R28        R0402                 1112mil        183mil       1112mil        183mil       1112mil    199.732mil  B        270.00 75R            
+R15        R0402                 1147mil        320mil       1147mil        320mil   1130.268mil        320mil  B        360.00 0R             
+C49        C0402                 1227mil        130mil       1227mil        130mil   1243.732mil        130mil  T        180.00 1nF            
+R29        R0402                 1227mil        167mil       1227mil        167mil   1210.268mil        167mil  T        360.00 100K           
+C25        C0402                  403mil        465mil        403mil        465mil    419.732mil        465mil  B        180.00 10uF           
+C26        C0402                  403mil        433mil        403mil        433mil    419.732mil        433mil  B        180.00 10uF           
+C27        C0402                  249mil        498mil        249mil        498mil    265.732mil        498mil  T        180.00 10uF           
+C28        C0402                  311mil        312mil        311mil        312mil        311mil    295.268mil  B         90.00 10uF           
+C29        C0402                  345mil        312mil        345mil        312mil        345mil    328.732mil  B        270.00 0.1uF          
+C30        C0402                  245mil        407mil        245mil        407mil    228.268mil        407mil  B          0.00 10uF           
+C31        C0402                  245mil        442mil        245mil        442mil    261.732mil        442mil  B        180.00 0.1uF          
+C32        C0402                  428mil        617mil        428mil        617mil        428mil    600.268mil  T         90.00 10uF           
+C33        C0402                  447mil        617mil        447mil        617mil        447mil    633.732mil  B        270.00 0.1uF          
+L2         VLS2016                420mil        539mil        420mil        539mil    393.425mil        539mil  B        180.00 2.2uH          
+L3         VLS2016                245mil        498mil        245mil        498mil    271.575mil        498mil  B        360.00 2.2uH          
+R8         R0402                  387mil        315mil        387mil        315mil        387mil    298.268mil  B         90.00 680K 1%        
+R9         R0402                  423mil        315mil        423mil        315mil        423mil    331.732mil  B        270.00 150K 1%        
+R10        R0402                  167mil        480mil        167mil        480mil    183.732mil        480mil  B        180.00 470K 1%        
+R11        R0402                  167mil        516mil        167mil        516mil    183.732mil        516mil  B        180.00 150K 1%        
+R12        R0402                  395mil        617mil        395mil        617mil        395mil    600.268mil  T         90.00 150K 1%        
+R13        R0402                  353mil        617mil        353mil        617mil        353mil    633.732mil  T        270.00 150K 1%        
+TP1        TEST-POINT            1514mil        188mil       1514mil        188mil       1514mil        188mil  T         90.00 TEST POINT     
+TP2        TEST-POINT            1514mil        239mil       1514mil        239mil       1514mil        239mil  T         90.00 TEST POINT     
+R30        R0402                 1514mil        213mil       1514mil        213mil       1514mil    196.268mil  B         90.00 75R            
+R33        R0402                 1637mil        691mil       1637mil        691mil   1620.268mil        691mil  B        360.00 10K            
+
